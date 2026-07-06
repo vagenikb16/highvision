@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://byhighvision.com/sitemap.xml
